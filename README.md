@@ -3,8 +3,8 @@
 Learning programming is fun! This repo is created to track my leanring progress. 
 
 Where and what am I learning:
-- Udacity nanodegree: Intro to Programming (HTML&CSS, Python, Javascript)
-- Youtube: Data Structure & Algorithm 
+- HTML&CSS, Python, Javascrip: Udacity nanodegree: Intro to Programming 
+- Data Structure & Algorithm: Youtube https://www.youtube.com/watch?v=BBpAmxU_NQo
 
 
 Where and what am I practicsing: 
