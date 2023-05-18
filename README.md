@@ -7,6 +7,7 @@ Where and what am I learning:
 - Data Structure & Algorithm: Youtube https://www.youtube.com/watch?v=BBpAmxU_NQo
 - CS 500
 - Storytelling & Communication 
+- Automated testing with Selenium
 
 
 Where and what am I practicsing: 
