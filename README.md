@@ -13,7 +13,7 @@ Where and what am I learning:
 Where and what am I practicsing: 
 - Wordle in python version 1 -> fundamentals 
 - NBA player and game look up -> API 
-- Intercom user data management -> API
+- Intercom user data management -> API & Webhooks
 - Website: pixel art builder -> javascript fundamentals 
 - 
 
