@@ -9,7 +9,6 @@ Where and what am I learning:
 - CS 500
 - Storytelling & Communication 
 - Automated testing with Selenium
-- 
 
 
 Where and what am I practicing: 
